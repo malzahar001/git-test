@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "215ef1b2-550d-4b17-9fdc-c0b4bb1426ed": {
+      "ProjectGuid": "215ef1b2-550d-4b17-9fdc-c0b4bb1426ed",
+      "DisplayName": "测试",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
